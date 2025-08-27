@@ -23,7 +23,7 @@ We welcome contributions! If you'd like to collaborate:
 
 ## 📬 Contact
 🌐 Website: [instatelabs.me](https://instatelabs.me)  
-📧 Email: contact@instatelabs.me  
+📧 Email: instatelabs@proton.me  
 
 ---
 💡 *Together, let’s build technology that truly empowers people.*
